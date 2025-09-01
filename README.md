@@ -1,1 +1,3 @@
-# Linux-day-2025
+# LINUX DAY 2025
+
+![](./img/logo-lug.png)
