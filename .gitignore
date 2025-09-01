@@ -1,2 +1,9 @@
 .idea
 .vs
+*.parquet
+\Original
+.csv
+*.csv
+
+\*.csv
+\*.parquet
